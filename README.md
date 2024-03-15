@@ -36,4 +36,4 @@ Data cleaning involved:
 
 ![image](https://github.com/ParthGodse/COVID19-Sentiment-Analysis/assets/98154485/bc3c8927-c770-4c61-9813-ac7961c5c203)
 
-Collaborated with : Aditi Govindu
+In collaboration with : Aditi Govindu
